@@ -16,11 +16,11 @@
 ## 开发
 
 ```bash
-git clone git@github.com:halo-dev/theme-modern-starter.git ~/halo2-dev/themes/theme-modern-starter
+git clone git@github.com:Gentle-Huang/theme-gentle-world.git theme-gentle-world
 ```
 
 ```bash
-cd ~/halo2-dev/themes/theme-modern-starter
+cd theme-gentle-world
 ```
 
 ```bash
