@@ -1,17 +1,17 @@
 apiVersion: theme.halo.run/v1alpha1
 kind: Theme
 metadata:
-  name: theme-modern-starter
+  name: theme-gentle-in-cloud
 spec:
-  displayName: Modern Starter
+  displayName: Gentle In Cloud
   author:
-    name: Halo OSS Organization
+    name: Gentle
     website: https://halo.run
   description: A development starter theme with Vite Ecosystem for Halo
   logo: https://halo.run/logo
-  website: https://github.com/halo-dev/theme-modern-starter
-  repo: https://github.com/halo-dev/theme-modern-starter.git
-  settingName: "theme-modern-starter-setting"
-  configMapName: "theme-modern-starter-configMap"
+  website: https://github.com/Gentle-Huang/theme-gentle-world
+  repo: https://github.com/Gentle-Huang/theme-gentle-world.git
+  settingName: "theme-gentle-in-cloud-setting"
+  configMapName: "theme-gentle-in-cloud-configMap"
   version: 1.0.0
   require: 2.0.0
